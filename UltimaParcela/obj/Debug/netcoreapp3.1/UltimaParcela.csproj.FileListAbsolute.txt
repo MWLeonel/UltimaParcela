@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\obj\Debug\netcoreapp3.1\UltimaParcela.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\obj\Debug\netcoreapp3.1\UltimaParcela.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\obj\Debug\netcoreapp3.1\UltimaParcela.AssemblyInfo.cs
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\obj\Debug\netcoreapp3.1\UltimaParcela.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\bin\Debug\netcoreapp3.1\UltimaParcela.exe
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\bin\Debug\netcoreapp3.1\UltimaParcela.deps.json
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\bin\Debug\netcoreapp3.1\UltimaParcela.runtimeconfig.json
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\bin\Debug\netcoreapp3.1\UltimaParcela.runtimeconfig.dev.json
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\bin\Debug\netcoreapp3.1\UltimaParcela.dll
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\bin\Debug\netcoreapp3.1\UltimaParcela.pdb
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\obj\Debug\netcoreapp3.1\UltimaParcela.dll
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\obj\Debug\netcoreapp3.1\UltimaParcela.pdb
+C:\Users\Max\Desktop\UltimaParcela\UltimaParcela\obj\Debug\netcoreapp3.1\UltimaParcela.genruntimeconfig.cache
